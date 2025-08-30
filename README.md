@@ -1,6 +1,6 @@
 # BigData-Project
 🔹Overview
-This project builds a scalable big data analytics pipeline to process 930,000+ housing records from Austin, uncovering patterns in housing affordability and infrastructure disparities across neighborhoods. The insights aim to support equitable urban development and align with UN Sustainable Development Goal 11 (Sustainable Cities and Communities). 
+* This project builds a scalable big data analytics pipeline to process 930,000+ housing records from Austin, uncovering patterns in housing affordability and infrastructure disparities across neighborhoods. The insights aim to support equitable urban development and align with UN Sustainable Development Goal 11 (Sustainable Cities and Communities). 
 
 🔹Key Contributions
 * ⚡ Big Data Pipeline: Designed with Hadoop, HDFS, and MapReduce for large-scale housing data processing.
@@ -11,7 +11,7 @@ This project builds a scalable big data analytics pipeline to process 930,000+ h
 🔹 Tech Stack
 * Big Data Tools: Hadoop, HDFS, MapReduce (Hadoop Streaming with Python)
 * Languages & Libraries: Python, Pandas, NumPy
-*Data Size: 930,000+ housing records
+* Data Size: 930,000+ housing records
 
 🔹 Value
 * Provides predictive insights for real estate markets.
